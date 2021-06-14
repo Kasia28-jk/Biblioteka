@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Biblioteka_WebApplication.Models
+namespace Biblioteka_WebApplication.Models.DBModels
 {
     public class Uzytkownik
     {

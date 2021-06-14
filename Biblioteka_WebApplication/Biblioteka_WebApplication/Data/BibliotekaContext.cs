@@ -1,4 +1,4 @@
-﻿using Biblioteka_WebApplication.Models;
+﻿using Biblioteka_WebApplication.Models.DBModels;
 using Microsoft.EntityFrameworkCore;
 
 namespace Biblioteka_WebApplication.Data

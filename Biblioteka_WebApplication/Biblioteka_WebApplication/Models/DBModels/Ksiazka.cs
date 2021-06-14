@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Biblioteka_WebApplication.Models
+namespace Biblioteka_WebApplication.Models.DBModels
 {
     public class Ksiazka
     {
