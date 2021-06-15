@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Biblioteka_WebApplication.Migrations
 {
-    [DbContext(typeof(BibliotekaContext))]
+    //[DbContext(typeof(GatunekRepository))]
     [Migration("20210613205924_InitzialMigration")]
     partial class InitzialMigration
     {

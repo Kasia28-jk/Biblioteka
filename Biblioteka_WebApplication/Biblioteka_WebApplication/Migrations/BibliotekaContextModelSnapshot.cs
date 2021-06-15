@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Biblioteka_WebApplication.Migrations
 {
-    [DbContext(typeof(BibliotekaContext))]
+   // [DbContext(typeof(GatunekRepository))]
     partial class BibliotekaContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

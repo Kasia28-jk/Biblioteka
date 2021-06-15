@@ -60,7 +60,7 @@ namespace Biblioteka_WebApplication.Data
            };
             foreach (Gatunek g in gatunki)
             {
-                context.Gatuneki.Add(g);
+                context.Gatunki.Add(g);
             }
             context.SaveChanges();
 
