@@ -31,6 +31,11 @@ namespace Biblioteka_WebApplication
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddControllersWithViews();
+
+            services.AddCors(options => options.AddPolicy("wszystkoDozwolone", builder =>
+            {
+                builder.AllowAnyMethod().WithOrigins("http://localhost:4200").AllowAnyHeader().Build();
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,7 +55,7 @@ namespace Biblioteka_WebApplication
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseCors("wszystkoDozwolone");
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

@@ -15,14 +15,10 @@ namespace Biblioteka_WebApplication.Controllers
     [ApiController]
     public class KsiazkiController : ControllerBase
     {
-      //  private readonly IKsiazkaRepository _ksiazkaRepository;
-        private readonly IKsiazkaMapper _ksiazkaMapper;
-        private readonly BibliotekaContext _bibliotekaContext;
         private readonly KsiazkaRepository _ksiazkaRepository;
 
-        public KsiazkiController(BibliotekaContext bibliotekaContext, KsiazkaRepository ksiazkaRepository)
+        public KsiazkiController(KsiazkaRepository ksiazkaRepository)
         {
-            _bibliotekaContext = bibliotekaContext;
             _ksiazkaRepository = ksiazkaRepository;
         }
       
@@ -33,19 +29,19 @@ namespace Biblioteka_WebApplication.Controllers
         }
 
         [HttpGet("{id}")]
-        public async Task<ActionResult<Ksiazka>> GetKsiazki(int id)
+        public async Task<ActionResult<Ksiazka>> GetKsiazka(int id)
         {
             return await _ksiazkaRepository.GetKsiazki(id);
         }
 
         [HttpPost]
-        public async Task<ActionResult<Ksiazka>> PostKsiazki([FromBody]Ksiazka ksiazka)
+        public async Task<ActionResult<Ksiazka>> PostKsiazka([FromBody]Ksiazka ksiazka)
         {
             return await _ksiazkaRepository.PostKsiazki(ksiazka);
         }
 
         [HttpDelete("{id}")]
-        public async Task<ActionResult<Ksiazka>> DeleteKsiazki(int id)
+        public async Task<ActionResult<Ksiazka>> DeleteKsiazka(int id)
         {
             return await _ksiazkaRepository.DeleteKsiazke(id);
         }
