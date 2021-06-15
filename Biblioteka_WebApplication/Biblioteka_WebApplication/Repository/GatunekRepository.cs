@@ -10,10 +10,10 @@ using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository
 {
-    public class GatunekReposiotry : Controller
+    public class GatunekRepository : IGatunekRepository
     {
         private readonly BibliotekaContext _bibliotekaContext;
-        public GatunekReposiotry(BibliotekaContext bibliotekaContext)
+        public GatunekRepository(BibliotekaContext bibliotekaContext)
         {
             _bibliotekaContext = bibliotekaContext;
         }

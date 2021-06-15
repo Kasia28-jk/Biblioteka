@@ -15,12 +15,10 @@ namespace Biblioteka_WebApplication.Controllers
     [ApiController]
     public class UzytkownikController : ControllerBase
     {
-        private readonly BibliotekaContext _context;
-        private readonly UzytkownikRepository _uRepository;
+        private readonly IUzytkownikRepository _uRepository;
 
-        public UzytkownikController(BibliotekaContext context, UzytkownikRepository uzytkownikRepository)
+        public UzytkownikController(UzytkownikRepository uzytkownikRepository)
         {
-            _context = context;
             _uRepository = uzytkownikRepository;
         }
 

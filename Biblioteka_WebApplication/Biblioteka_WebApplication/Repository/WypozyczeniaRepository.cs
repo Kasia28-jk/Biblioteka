@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository
 {
-    public class WypozyczeniaRepository
+    public class WypozyczeniaRepository : IWypozyczeniaRepository
     {
         private readonly BibliotekaContext _context;
 

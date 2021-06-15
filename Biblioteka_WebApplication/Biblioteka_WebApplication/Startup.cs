@@ -10,6 +10,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Biblioteka_WebApplication.Repository;
 
 namespace Biblioteka_WebApplication
 {
@@ -31,6 +32,10 @@ namespace Biblioteka_WebApplication
             services.AddDatabaseDeveloperPageExceptionFilter();
 
             services.AddControllersWithViews();
+            services.AddScoped<IKsiazkaRepository, KsiazkaRepository>();
+            services.AddScoped<IWypozyczeniaRepository, WypozyczeniaRepository>();
+            services.AddScoped<IGatunekRepository, GatunekRepository>();
+            services.AddScoped<IKsiazkaRepository, KsiazkaRepository>();
 
             services.AddCors(options => options.AddPolicy("wszystkoDozwolone", builder =>
             {

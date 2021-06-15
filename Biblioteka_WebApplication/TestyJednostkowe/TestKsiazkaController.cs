@@ -1,18 +1,15 @@
 using Biblioteka_WebApplication.Controllers;
-using Biblioteka_WebApplication.Data;
-using Biblioteka_WebApplication.Models.DBModels;
 using Biblioteka_WebApplication.Repository;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NUnit.Framework;
 
 namespace TestyJednostkowe
 {
-    [TestClass]
+    [TestFixture]
     public class Tests
     {
-        private readonly KsiazkaRepository _ksiazkaRepository;
-       
-        [TestMethod]
+        private readonly IKsiazkaRepository _ksiazkaRepository;
+
+        [Test]
         public void Test_GetAll_Reposiotry()
         {
             //Arrange
@@ -23,7 +20,7 @@ namespace TestyJednostkowe
             //Assert.AreEqual(
         }
 
-        [TestMethod]
+        [Test]
         public void Test_2()
         {
            // Assert.Pass();

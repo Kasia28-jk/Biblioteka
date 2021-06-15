@@ -9,9 +9,8 @@ using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository
 {
-    public class KsiazkaRepository
+    public class KsiazkaRepository : IKsiazkaRepository
     {
-        private readonly KsiazkaDto ksiazkaDto;
         private readonly BibliotekaContext _bibliotekaContext;
         public KsiazkaRepository(BibliotekaContext bibliotekaContext)
         {
@@ -23,7 +22,7 @@ namespace Biblioteka_WebApplication.Repository
             return await _bibliotekaContext.Ksiazki.ToListAsync();
         }
 
-        public async Task<ActionResult<Ksiazka>> GetKsiazki(int id)
+        public async Task<ActionResult<Ksiazka>> GetKsiazka(int id)
         {
             var ksiazka = await _bibliotekaContext.Ksiazki.FindAsync(id);
 

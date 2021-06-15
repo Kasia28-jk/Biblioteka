@@ -40,8 +40,6 @@ E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\D
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.TestPlatform.Utilities.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\testhost.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Newtonsoft.Json.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\NuGet.Frameworks.dll

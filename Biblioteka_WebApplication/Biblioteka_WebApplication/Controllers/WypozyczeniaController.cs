@@ -14,7 +14,7 @@ namespace Biblioteka_WebApplication.Controllers
     [ApiController]
     public class WypozyczeniaController : ControllerBase
     {
-        private readonly WypozyczeniaRepository _wRepository;
+        private readonly IWypozyczeniaRepository _wRepository;
 
         // GET: api/<WypozyczeniaController>
         [HttpGet]

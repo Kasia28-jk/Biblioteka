@@ -137,10 +137,6 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "MSTest.TestFramework": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "Microsoft.AspNet.WebApi.Core": {
               "target": "Package",
               "version": "[5.2.7, )"

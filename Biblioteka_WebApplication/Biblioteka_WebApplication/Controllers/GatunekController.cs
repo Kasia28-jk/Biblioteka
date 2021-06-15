@@ -15,12 +15,11 @@ namespace Biblioteka_WebApplication.Controllers
     [ApiController]
     public class GatunekController : ControllerBase
     {
-        private readonly BibliotekaContext _bibliotekaContext;
-        private readonly GatunekReposiotry _gatunekReposiotry;
-
-        public GatunekController(BibliotekaContext bibliotekaContext, GatunekReposiotry gatunekReposiotry)
+        private readonly IGatunekRepository _gatunekReposiotry;
+                           
+        public GatunekController(IGatunekRepository gatunekReposiotry)
         {
-            _bibliotekaContext = bibliotekaContext;
+     
             _gatunekReposiotry = gatunekReposiotry;
         }
         // GET: api/<ValuesController>

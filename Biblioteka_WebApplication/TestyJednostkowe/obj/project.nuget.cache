@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jChPKdaeB61/9QCdR9o1ZgV1rxEdHrcN7/QTIqPlARN4RuqNgKGro74azsOEkzULU47CmFbVjjEWeWDQ0Eanzg==",
+  "dgSpecHash": "xMGVmU9Ka4i1c58UjF72L76nzxU3aF6Prm67rcVV887lN6VaOC+rzgLBmlh/2iY7JY1P83BVWDwKAXcAWVo/cw==",
   "success": true,
   "projectFilePath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
   "expectedPackageFiles": [
@@ -38,7 +38,6 @@
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.testplatform.testhost\\16.5.0\\microsoft.testplatform.testhost.16.5.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Kasia\\.nuget\\packages\\mstest.testframework\\2.2.4\\mstest.testframework.2.2.4.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
@@ -58,9 +57,7 @@
     "C:\\Users\\Kasia\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "C:\\Users\\Kasia\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
-    "C:\\Users\\Kasia\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.dynamic.runtime\\4.3.0\\system.dynamic.runtime.4.3.0.nupkg.sha512",

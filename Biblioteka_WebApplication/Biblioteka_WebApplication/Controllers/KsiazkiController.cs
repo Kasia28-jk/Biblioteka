@@ -15,9 +15,9 @@ namespace Biblioteka_WebApplication.Controllers
     [ApiController]
     public class KsiazkiController : ControllerBase
     {
-        private readonly KsiazkaRepository _ksiazkaRepository;
+        private readonly IKsiazkaRepository _ksiazkaRepository;
 
-        public KsiazkiController(KsiazkaRepository ksiazkaRepository)
+        public KsiazkiController(IKsiazkaRepository ksiazkaRepository)
         {
             _ksiazkaRepository = ksiazkaRepository;
         }
@@ -31,7 +31,7 @@ namespace Biblioteka_WebApplication.Controllers
         [HttpGet("{id}")]
         public async Task<ActionResult<Ksiazka>> GetKsiazka(int id)
         {
-            return await _ksiazkaRepository.GetKsiazki(id);
+            return await _ksiazkaRepository.GetKsiazka(id);
         }
 
         [HttpPost]
