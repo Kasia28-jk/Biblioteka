@@ -1,12 +1,7 @@
-﻿using Biblioteka_WebApplication.Data;
-using Biblioteka_WebApplication.Mappers;
-using Biblioteka_WebApplication.Models.DBModels;
+﻿using Biblioteka_WebApplication.Models.DBModels;
 using Biblioteka_WebApplication.Repository;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Controllers
