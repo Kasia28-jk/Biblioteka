@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository
 {
-    interface IWypozyczeniaRepository
+    public interface IWypozyczeniaRepository
     {
         public Task<ActionResult<IEnumerable<Wypozyczenie>>> Get();
         public Task<ActionResult<Wypozyczenie>> Get(int id);
