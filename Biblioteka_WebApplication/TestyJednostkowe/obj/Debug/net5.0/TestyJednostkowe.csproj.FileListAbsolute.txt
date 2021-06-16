@@ -143,3 +143,11 @@ E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\D
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\xunit.runner.reporters.netcoreapp10.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\xunit.runner.utility.netcoreapp10.dll
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.csprojAssemblyReference.cache
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.GeneratedMSBuildEditorConfig.editorconfig
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.AssemblyInfoInputs.cache
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.AssemblyInfo.cs
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.csproj.CoreCompileInputs.cache
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.dll
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\ref\TestyJednostkowe.dll
+S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJednostkowe\obj\Debug\net5.0\TestyJednostkowe.pdb

@@ -18,12 +18,19 @@ namespace TestyJednostkowe
             public async Task<ActionResult<Ksiazka>> DeleteKsiazke(int id)
             {
                 return new Ksiazka() { Id=id };
+                
             }
 
             public async Task<ActionResult<IEnumerable<Ksiazka>>> Get()
             {
-                throw new System.NotImplementedException();
-                //return await new List<Ksiazka>;
+                //throw new System.NotImplementedException();
+                List<Ksiazka> lists = new List<Ksiazka>() { 
+                    new Ksiazka(){Id = 1},
+                    new Ksiazka(){Id = 3},
+                    new Ksiazka(){Id = 1},
+                
+                };
+                return lists;
             }
 
             public Task<ActionResult<Ksiazka>> GetKsiazka(int id)

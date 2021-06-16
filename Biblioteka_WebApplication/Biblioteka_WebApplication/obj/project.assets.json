@@ -5793,27 +5793,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kasia\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\edyta\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
+      "projectUniqueName": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
       "projectName": "Biblioteka_WebApplication",
-      "projectPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
-      "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-      "outputPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\obj\\",
+      "projectPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
+      "packagesPath": "C:\\Users\\edyta\\.nuget\\packages\\",
+      "outputPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\edyta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5881,7 +5874,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

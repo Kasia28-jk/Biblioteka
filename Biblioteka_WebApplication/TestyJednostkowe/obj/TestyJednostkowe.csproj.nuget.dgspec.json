@@ -1,26 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj": {}
+    "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj": {}
   },
   "projects": {
-    "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj": {
+    "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
+        "projectUniqueName": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
         "projectName": "Biblioteka_WebApplication",
-        "projectPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
-        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\obj\\",
+        "projectPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
+        "packagesPath": "C:\\Users\\edyta\\.nuget\\packages\\",
+        "outputPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\edyta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -88,27 +83,22 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj": {
+    "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
+        "projectUniqueName": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
         "projectName": "TestyJednostkowe",
-        "projectPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
-        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\TestyJednostkowe\\obj\\",
+        "projectPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
+        "packagesPath": "C:\\Users\\edyta\\.nuget\\packages\\",
+        "outputPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\edyta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -121,8 +111,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj": {
-                "projectPath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj"
+              "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj": {
+                "projectPath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj"
               }
             }
           }
@@ -171,11 +161,14 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
