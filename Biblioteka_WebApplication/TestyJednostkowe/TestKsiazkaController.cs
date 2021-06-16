@@ -12,47 +12,71 @@ namespace TestyJednostkowe
     public class Tests
     {
         private readonly IKsiazkaRepository _ksiazkaRepository;
+        private readonly KsiazkiRepositoryFake rep = new KsiazkiRepositoryFake();
 
-        class KsiazkiRepoFake : IKsiazkaRepository
+        class KsiazkiRepositoryFake : IKsiazkaRepository
         {
+            private readonly List<Ksiazka> lista = new List<Ksiazka>()
+                {
+                    new Ksiazka(){Id = 2, Tytul = "List w butelce"},
+                    new Ksiazka(){Id = 3, Tytul = "Pan Tadeusz"},
+                    new Ksiazka(){Id = 4, Tytul = "Tango"},
+                    new Ksiazka(){Id = 5, Tytul = "Harry Potter"}
+                };
             public async Task<ActionResult<Ksiazka>> DeleteKsiazke(int id)
             {
-                return new Ksiazka() { Id=id };
+                return new Ksiazka() { Id = id };
             }
 
             public async Task<ActionResult<IEnumerable<Ksiazka>>> Get()
             {
-                throw new System.NotImplementedException();
-                //return await new List<Ksiazka>;
+                return lista;
             }
 
-            public Task<ActionResult<Ksiazka>> GetKsiazka(int id)
+            public async Task<ActionResult<Ksiazka>> GetKsiazka(int id)
             {
-                throw new System.NotImplementedException();
+              //  var ksiazka =  from k in lista where k.Id.Equals(id) select k;
+                //return (Ksiazka)ksiazka;
+                return new Ksiazka() { Id = id };
             }
 
-            public Task<ActionResult<Ksiazka>> PostKsiazki([FromBody] Ksiazka ksiazka)
+            public async Task<ActionResult<Ksiazka>> PostKsiazki([FromBody] Ksiazka ksiazka)
             {
                 throw new System.NotImplementedException();
             }
         }
 
         [Test]
-        public void Test_GetAll_Reposiotry()
+        public void Test_IdOfKsiazkaShouldBeDeleted()
         {
             //Arrange
-            var rep = new KsiazkiRepoFake();
             var controller = new KsiazkiController(rep);
             //Act
             var result = controller.DeleteKsiazka(1).Result;
             // Assert
-            Assert.AreNotEqual(1, result.Value.Id);
+            Assert.AreEqual(1, result.Value.Id);
         }
 
         [Test]
-        public void Test_2()
+        public void Test_LenghtOfListShouldBeEqual()
         {
-           // Assert.Pass();
+            //Arrange
+            var controller = new KsiazkiController(rep);
+            //Act
+            var result = controller.Get().Result;
+            // Assert
+            Assert.IsNotNull(result);
+        }
+
+        [Test]
+        public void Test_IdKsiazkaGetShouldBeEqual()
+        {
+            //Arrange
+            var controller = new KsiazkiController(rep);
+            //Act
+            var result = controller.GetKsiazka(2).Result;
+            // Assert
+             Assert.AreEqual(2,result.Value.Id);
         }
     }
 }
