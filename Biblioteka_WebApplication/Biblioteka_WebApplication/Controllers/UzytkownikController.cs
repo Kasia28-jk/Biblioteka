@@ -17,7 +17,7 @@ namespace Biblioteka_WebApplication.Controllers
     {
         private readonly IUzytkownikRepository _uRepository;
 
-        public UzytkownikController(UzytkownikRepository uzytkownikRepository)
+        public UzytkownikController(IUzytkownikRepository uzytkownikRepository)
         {
             _uRepository = uzytkownikRepository;
         }

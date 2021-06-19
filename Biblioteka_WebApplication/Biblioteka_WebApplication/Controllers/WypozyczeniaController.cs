@@ -16,6 +16,11 @@ namespace Biblioteka_WebApplication.Controllers
     {
         private readonly IWypozyczeniaRepository _wRepository;
 
+        public WypozyczeniaController(IWypozyczeniaRepository wypozyczeniaRepository)
+        {
+            _wRepository = wypozyczeniaRepository;
+        }
+
         // GET: api/<WypozyczeniaController>
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Wypozyczenie>>> Get()

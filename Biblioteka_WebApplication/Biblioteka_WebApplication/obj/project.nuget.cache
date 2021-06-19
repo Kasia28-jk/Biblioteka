@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "36A3YZ1L0b2gGkXfAaeGCDf/+kyjhyYn/PDR6HUe4SgaiijJcV7dYCanD2eumotO2nykUvmC0FwjygvHg3tOFw==",
+  "dgSpecHash": "VDqFd9eXHjKftC9yiAHT03Jb62HjRNrKv7wzxpCc5N7Sdc6BoPMU2rLOwBNe8062es2gBeOlIqxJdpzMDgddkQ==",
   "success": true,
   "projectFilePath": "E:\\Studia\\semestr 6\\TIU\\Projekt\\Biblioteka_WebApplication\\Biblioteka_WebApplication\\Biblioteka_WebApplication.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.7\\microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.7\\microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.7\\microsoft.entityframeworkcore.design.5.0.7.nupkg.sha512",
+    "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.7\\microsoft.entityframeworkcore.inmemory.5.0.7.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.7\\microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.7\\microsoft.entityframeworkcore.sqlserver.5.0.7.nupkg.sha512",
     "C:\\Users\\Kasia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.7\\microsoft.entityframeworkcore.tools.5.0.7.nupkg.sha512",

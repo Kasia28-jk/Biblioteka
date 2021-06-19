@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository
 {
-    interface IUzytkownikRepository
+    public interface IUzytkownikRepository
     {
         public Task<ActionResult<IEnumerable<Uzytkownik>>> Get();
         public Task<ActionResult<Uzytkownik>> Get(int id);
