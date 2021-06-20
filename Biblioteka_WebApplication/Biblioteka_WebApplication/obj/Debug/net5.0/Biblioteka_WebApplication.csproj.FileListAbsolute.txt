@@ -217,3 +217,4 @@ S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka
 S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
 S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
 S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
