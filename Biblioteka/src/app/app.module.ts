@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { KsiazkaComponent } from './ksiazka/ksiazka.component';
 import { MenuComponent } from './menu/menu.component';
 import { KsiazkiComponent } from './ksiazki/ksiazki.component';
+import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     KsiazkaComponent,
     MenuComponent,
-    KsiazkiComponent
+    KsiazkiComponent,
+    WypozyczeniaComponent
   ],
   imports: [
     BrowserModule,
