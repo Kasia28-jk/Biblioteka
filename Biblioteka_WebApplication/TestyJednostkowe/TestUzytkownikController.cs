@@ -60,7 +60,7 @@ namespace TestyJednostkowe
             //Act
             var result = controller.Get().Result;
             // Assert
-            Assert.AreNotEqual(1, result.Value);
+            Assert.AreEqual(3, result.Value.Count());
         }
 
         [Test]
