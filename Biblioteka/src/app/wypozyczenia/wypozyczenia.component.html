@@ -1,0 +1,17 @@
+<div style=" text-align: center;" class="border border-dark">
+    <div *ngIf="ksiazki.length!=0">
+        <h6>WYPOZYCZALNIA - Ilość ksiazek: {{ksiazki.length}}  </h6>
+        <button class="btn btn-outline-danger" style="margin: 10px;" (click)="onClick()">Wyczyść wypożyczenia</button>
+        <button  class="btn btn-outline-info" (click)="wyswietl()" >Pokaz/ukryj </button>
+       
+    </div>
+    <div *ngIf="ksiazki.length==0">
+           Nie dodałeś/aś żadnej książki
+    </div>
+    
+    <div *ngIf="wyswietlZawartosc">
+        <div >
+            <app-ksiazka *ngFor="let a of ksiazki" [ksiazka]="a"></app-ksiazka>
+        </div>
+    </div>
+    </div>
