@@ -23,7 +23,7 @@ export class KsiazkaComponent implements OnInit {
   }
 
   DodajDoWypozyczen(id:number): void{
-    this.wypozyczenia.dodajDoWypozyczenia(id).subscribe();
+    //this.wypozyczenia.dodajDoWypozyczenia(id).subscribe();
   }
 
 }

@@ -9,27 +9,46 @@ export interface Paginacja{
   ilosc: number;
 }
 
+export interface Wypozyczenie
+{
+    idWypozyczenia: number,
+    dataWypozyczenia: Date,
+    dataOddania: Date,
+    ksiazkaID: number,
+    uzytkownikID: number
+}
+
 @Injectable({
   providedIn: 'root'
 })
 export class WypozyczeniaService {
   private wybraneKsiazki: BehaviorSubject<ksiazka[]>= new BehaviorSubject<ksiazka[]>([]);
-  constructor(private http: HttpClient) { 
-    this.http.get<ksiazka[]>("https://localhost:44383/api/Wypozyczenia",).subscribe(res=>(this.wybraneKsiazki.next(res)));
+  constructor(private http: HttpClient) 
+  { 
   }
 
-  pobierzWypozyczenia(): Observable<ksiazka[]>{
-    return this.wybraneKsiazki.asObservable();
-  }
-
-  wyczyscWypozyczenia(): Observable<void>
+  pobierzWypozyczenia(): Observable<Wypozyczenie[]>
   {
-  //  this.wybraneAtrykuly.next([]);
-  return this.http.put<ksiazka[]>('https://localhost:44383/api/Wypozyczenia',{},).pipe(map(res=>{this.wybraneKsiazki.next(res); return}));
+    return this.http.get<Wypozyczenie[]>("https://localhost:44383/api/Wypozyczenia");
   }
 
-  dodajDoWypozyczenia(id: number): Observable<void>
+  getWypozyczenie(id:number): Observable<Wypozyczenie>
   {
-    return this.http.post<ksiazka[]>('https://localhost:44383/api/Wypozyczenia/'+id,{},).pipe(map(res=>{this.wybraneKsiazki.next(res); return}))
+      return this.http.get<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id);
   }
+
+ /* postWypozyczenia(wypozyczenie: Wypozyczenie): Observable<Wypozyczenie>
+  {
+    return this.http.post<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia'+wypozyczenie);
+  }*/
+
+  deleteWypozyczenie(id:number):Observable<Wypozyczenie>
+  {
+    return this.http.delete<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id);
+  }
+/*
+  putWypozyczenie(id:number):Observable<Wypozyczenie>
+  {
+    return this.http.put<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id);
+  }*/
 }
