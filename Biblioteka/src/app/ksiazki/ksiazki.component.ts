@@ -12,6 +12,7 @@ export class KsiazkiComponent implements OnInit {
   constructor(private ksiazkiservice:KsiazkaService) { }
 
   ngOnInit(): void {
+    this.ksiazkiservice.pobierzKsiazki().subscribe(res=>this.ksiazki=res);
   }
 
 }

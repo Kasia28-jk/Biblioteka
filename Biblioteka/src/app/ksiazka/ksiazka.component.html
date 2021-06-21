@@ -1,7 +1,6 @@
 <div class="table">
-    <td>Tytul: {{ksiazka.tytul}}</td>
-    <td> Autor: {{ksiazka.imie}} {{ksiazka.nazwisko}}</td>
-    <td>Liczba stron: {{ksiazka.liczbaStron}}</td>
-    <td>Wydawnictow: {{ksiazka.wydawnictwo}}</td>
-    <button class="btn btn-primary" (click)="DodajDoWypozyczen(ksiazka.id)">Wypozycz</button> 
+    <tr> <b>Tytul: {{ksiazka.tytul}}</b> </tr>
+    <tr>   <b>Autor: {{ksiazka.imie}} {{ksiazka.nazwisko}}</b></tr>
+    <tr> <b>Liczba stron: {{ksiazka.liczbaStron}}</b></tr> 
+    <tr>  <button class="btn btn-primary" (click)="DodajDoWypozyczen(ksiazka.id)">Wypozycz</button> </tr> 
 </div>

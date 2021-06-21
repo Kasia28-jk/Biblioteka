@@ -9,9 +9,9 @@ import { ksiazka, KsiazkaService } from './ksiazka.service';
 })
 export class AppComponent {
   title = 'Biblioteka';
-  ksiazka: ksiazka[];
+
   constructor(private ksiazkaService:KsiazkaService, private route: ActivatedRoute) { }
   ngOnInit(): void {
-    this.ksiazkaService.pobierzKsiazki().subscribe(res=> this.ksiazka =res);
+  
   }
 }
