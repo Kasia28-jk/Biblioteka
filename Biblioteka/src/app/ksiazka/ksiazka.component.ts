@@ -1,6 +1,8 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { ksiazka, KsiazkaService } from '../ksiazka.service';
+import { WypozyczeniaService } from '../wypozyczenia.service';
+import { WypozyczeniaComponent } from '../wypozyczenia/wypozyczenia.component';
 
 @Component({
   selector: 'app-ksiazka',
@@ -10,7 +12,7 @@ import { ksiazka, KsiazkaService } from '../ksiazka.service';
 export class KsiazkaComponent implements OnInit {
   @Input() ksiazka: ksiazka;
   id:number;
-  constructor(private ksiazkaService:KsiazkaService, private route: ActivatedRoute) { }
+  constructor(private ksiazkaService:KsiazkaService, private wypozyczenia:WypozyczeniaService, private route: ActivatedRoute) { }
 
   ngOnInit(): void {
     const id = Number.parseInt(this.route.snapshot.paramMap.get('id'));
@@ -21,8 +23,7 @@ export class KsiazkaComponent implements OnInit {
   }
 
   DodajDoWypozyczen(id:number): void{
-    //jak Kasia stworzy
-    //this.ksiazkaService.dodajDoKoszyka(id).subscribe();
+    this.wypozyczenia.dodajDoWypozyczenia(id).subscribe();
   }
 
 }
