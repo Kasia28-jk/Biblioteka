@@ -9,5 +9,6 @@ namespace Biblioteka_WebApplication.Models.DtoModel
     {
         public string Login { get; set; }
         public string Hasło { get; set; }
+        public string Status { get; set; }
     }
 }

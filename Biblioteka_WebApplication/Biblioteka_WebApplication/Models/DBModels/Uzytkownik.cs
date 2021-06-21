@@ -10,7 +10,7 @@ namespace Biblioteka_WebApplication.Models.DBModels
         public int UzytkownikId { get; set; }
         public string Status { get; set; }
         public string Login { get; set; }
-        public string Hasło { get; set; }
+        public string Haslo { get; set; }
 
         public ICollection<Wypozyczenie> Wypozyczenias { get; set; }
     }

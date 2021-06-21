@@ -18,11 +18,11 @@ namespace Biblioteka_WebApplication.Data
 
             var uzytkowniks = new Uzytkownik[]
             {
-            new Uzytkownik{Status="Bibliotekarz", Login ="Katarzyna", Hasło = "zzz"},
-            new Uzytkownik{Status="Bibliotekarz", Login ="Edyta", Hasło = "zzz"},
-            new Uzytkownik{Status="Czytelnik", Login ="User1", Hasło = "zzz"},
-            new Uzytkownik{Status="Czytelnik", Login ="User2", Hasło = "zzz"},
-            new Uzytkownik{Status="Czytelnik", Login ="User3", Hasło = "zzz"}
+            new Uzytkownik{Status="Bibliotekarz", Login ="Katarzyna", Haslo = "zzz"},
+            new Uzytkownik{Status="Bibliotekarz", Login ="Edyta", Haslo = "zzz"},
+            new Uzytkownik{Status="Czytelnik", Login ="User1", Haslo = "zzz"},
+            new Uzytkownik{Status="Czytelnik", Login ="User2", Haslo = "zzz"},
+            new Uzytkownik{Status="Czytelnik", Login ="User3", Haslo = "zzz"}
             };
             foreach (Uzytkownik u in uzytkowniks)
             {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2PQKD89BgY8cYpBnwG32shLxbvQIWwW6J4Kln7IoQH2+7VbIAnbvk6oKYV/LKJSzSDScySJS5kJULA0oIXKrdQ==",
+  "dgSpecHash": "tQ4tNi8b1PJP4QgvmexGUE7aW7GL+T7Gk3vIsN8NVf75wER7LW88uq1KBeg+TCYmsZ0Wqd8VcpLLNLROOGjugA==",
   "success": true,
   "projectFilePath": "S:\\Szkola\\TIU\\PROJEKT\\Biblioteka\\Biblioteka\\Biblioteka_WebApplication\\TestyJednostkowe\\TestyJednostkowe.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.7\\microsoft.entityframeworkcore.5.0.7.nupkg.sha512",
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.7\\microsoft.entityframeworkcore.abstractions.5.0.7.nupkg.sha512",
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.7\\microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512",
+    "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.7\\microsoft.entityframeworkcore.inmemory.5.0.7.nupkg.sha512",
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.7\\microsoft.entityframeworkcore.relational.5.0.7.nupkg.sha512",
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.7\\microsoft.entityframeworkcore.sqlserver.5.0.7.nupkg.sha512",
     "C:\\Users\\edyta\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

@@ -1,5 +1,6 @@
 ﻿using Biblioteka_WebApplication.Data;
 using Biblioteka_WebApplication.Models.DBModels;
+using Biblioteka_WebApplication.Models.DtoModel;
 using Biblioteka_WebApplication.Repository;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -48,6 +49,12 @@ namespace Biblioteka_WebApplication.Controllers
         public async Task<ActionResult<Uzytkownik>> Delete(int id)
         {
             return await _uRepository.Delete(id);
+        }
+
+        [HttpPost]
+        public LoginResDto Login([FromBody] Uzytkownik uzytkownik)
+        {
+            return _uRepository.Login(uzytkownik);
         }
     }
 }

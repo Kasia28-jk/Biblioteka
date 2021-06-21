@@ -1,4 +1,5 @@
 ﻿using Biblioteka_WebApplication.Models.DBModels;
+using Biblioteka_WebApplication.Models.DtoModel;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,5 +14,6 @@ namespace Biblioteka_WebApplication.Repository
         public Task<ActionResult<Uzytkownik>> Get(int id);
         public Task<ActionResult<Uzytkownik>> Post([FromBody] Uzytkownik user);
         public Task<ActionResult<Uzytkownik>> Delete(int id);
+        public LoginResDto Login([FromBody] Uzytkownik uzytkownik);
     }
 }

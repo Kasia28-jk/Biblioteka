@@ -44,7 +44,7 @@ namespace TestyJednostkowe
                     UzytkownikId = user.UzytkownikId, 
                     Login = user.Login,
                     Status = user.Status,
-                    Hasło = user.Hasło
+                    Haslo = user.Haslo
                 };
             }
         }

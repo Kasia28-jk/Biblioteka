@@ -35,7 +35,7 @@ namespace Biblioteka_WebApplication
             services.AddScoped<IKsiazkaRepository, KsiazkaRepository>();
             services.AddScoped<IWypozyczeniaRepository, WypozyczeniaRepository>();
             services.AddScoped<IGatunekRepository, GatunekRepository>();
-            services.AddScoped<IKsiazkaRepository, KsiazkaRepository>();
+            services.AddScoped<IUzytkownikRepository, UzytkownikRepository>();
 
             services.AddCors(options => options.AddPolicy("wszystkoDozwolone", builder =>
             {

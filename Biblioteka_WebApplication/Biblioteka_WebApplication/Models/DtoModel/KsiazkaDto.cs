@@ -7,6 +7,7 @@ namespace Biblioteka_WebApplication.Models.DtoModel
 {
     public class KsiazkaDto
     {
+        public int Id { get; set; }
         public string Tytul { get; set; }
         public string Imie { get; set; }
         public string Nazwisko { get; set; }
