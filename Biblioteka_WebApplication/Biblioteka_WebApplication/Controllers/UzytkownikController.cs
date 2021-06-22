@@ -1,6 +1,7 @@
 ﻿using Biblioteka_WebApplication.Data;
 using Biblioteka_WebApplication.Models.DBModels;
 using Biblioteka_WebApplication.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -24,6 +25,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET: api/<UzytkownikController>
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Uzytkownik>>> Get()
         {
             return await _uRepository.Get();
@@ -31,6 +33,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET api/<UzytkownikController>/5
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<Uzytkownik>> Get(int id)
         {
             return await _uRepository.Get(id);
@@ -38,6 +41,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // POST api/<UzytkownikController>
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Uzytkownik>> Post([FromBody] Uzytkownik user)
         {
             return await _uRepository.Post(user);
@@ -45,6 +49,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // DELETE api/<UzytkownikController>/5
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<ActionResult<Uzytkownik>> Delete(int id)
         {
             return await _uRepository.Delete(id);
