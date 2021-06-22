@@ -7,6 +7,8 @@ import { KsiazkaComponent } from './ksiazka/ksiazka.component';
 import { MenuComponent } from './menu/menu.component';
 import { KsiazkiComponent } from './ksiazki/ksiazki.component';
 import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
+import { AutoryzacjaDirective } from './autoryzacja.directive';
+import { UzytkownikComponent } from './uzytkownik/uzytkownik.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +16,9 @@ import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
     KsiazkaComponent,
     MenuComponent,
     KsiazkiComponent,
-    WypozyczeniaComponent
+    WypozyczeniaComponent,
+    AutoryzacjaDirective,
+    UzytkownikComponent
   ],
   imports: [
     BrowserModule,

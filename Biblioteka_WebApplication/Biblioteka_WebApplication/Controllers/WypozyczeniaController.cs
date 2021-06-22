@@ -1,5 +1,6 @@
 ﻿using Biblioteka_WebApplication.Models.DBModels;
 using Biblioteka_WebApplication.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -23,6 +24,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET: api/<WypozyczeniaController>
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Wypozyczenie>>> Get()
         {
             return await _wRepository.Get();
@@ -30,6 +32,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET api/<WypozyczeniaController>/5
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<Wypozyczenie>> Get(int id)
         {
             return await _wRepository.Get(id);
@@ -37,6 +40,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // POST api/<WypozyczeniaController>
         [HttpPost]
+        [Authorize]
         public async Task<ActionResult<Wypozyczenie>> Post([FromBody] Wypozyczenie wypozyczenie)
         {
             return await _wRepository.Post(wypozyczenie);
@@ -44,6 +48,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // PUT api/<WypozyczeniaController>/5
         [HttpPut("{id}")]
+        [Authorize]
         public async Task<ActionResult<Wypozyczenie>> Put([FromBody] Wypozyczenie wypozyczenie)
         {
             return await _wRepository.Put(wypozyczenie);
@@ -51,6 +56,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // DELETE api/<WypozyczeniaController>/5
         [HttpDelete("{id}")]
+        [Authorize]
         public async Task<ActionResult<Wypozyczenie>> Delete(int id)
         {
             return await _wRepository.Delete(id);
