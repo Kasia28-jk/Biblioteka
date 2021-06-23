@@ -1,9 +1,7 @@
 ﻿using Biblioteka_WebApplication.Models.DBModels;
-using Biblioteka_WebApplication.Models.DtoModel;
+using Biblioteka_WebApplication.Repository.DtoModel;
 using Microsoft.AspNetCore.Mvc;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 
 namespace Biblioteka_WebApplication.Repository

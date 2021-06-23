@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace TestyJednostkowe
 {
     [TestFixture]
-    public class Tests
+    public class TestKsiazkaController
     {
         private readonly IKsiazkaRepository _ksiazkaRepository;
         private readonly KsiazkiRepositoryFake rep = new KsiazkiRepositoryFake();

@@ -16,16 +16,21 @@ user: Uzytkownik = {
   Haslo: null
 }
 
+zalogowany:boolean = false;
+
 blad: string;
 
-  constructor(private autoryzacjaService: AutoryzacjaService, private router: Router) { }
+  constructor(private autoryzacjaService: AutoryzacjaService, private router: Router) {
+   }
 
   ngOnInit(): void {
   }
 
   onSubmit() {
+    console.log('asdasasd');
     this.autoryzacjaService.login(this.user).subscribe(res => {
       if(res) {
+        this.zalogowany=true;
         this.router.navigateByUrl('');
       } else {
         this.blad = "Błędny login lub hasło!";

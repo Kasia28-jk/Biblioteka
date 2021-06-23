@@ -1,1 +1,40 @@
-<p>uzytkownik works!</p> 
+      <!--<form (ngSubmit)="onSubmit()" #form="ngForm" class="my-form">
+    <div class="d-flex flex-column">
+    <div class="d-flex justify-content-around">
+   <mat-form-field class="example-full-width">
+            <mat-label>Login</mat-label>
+            <input matInput placeholder="Login" [(ngModel)]="login.login" required name="login">
+          </mat-form-field>
+          <mat-form-field class="example-full-width">
+            <mat-label>Haslo</mat-label>
+            <input matInput placeholder="Haslo" [(ngModel)]="login.haslo" name="haslo" required type="password">
+          </mat-form-field>
+         -->
+    
+        <!-- <div class="d-flex flex-row-reverse">
+            <input [disabled]="form.invalid" class="btn btn-success btn-lg m-1 mx-2" type="submit" value="Zaloguj">
+        </div> -->
+
+    <!-- </div> -->
+    <a routerLink="">Powrot do strony glownje</a>
+
+
+<div *ngIf="zalogowany==false" >    
+    
+    <form (ngSubmit)="onSubmit()">     
+        <label>Login</label>
+        <input placeholder="Login" required name="login">
+        <label>Haslo</label>
+        <input placeholder="Haslo" name="haslo" required type="password">
+    <input type="submit" value="Zaloguj">
+</form>
+
+<div>
+    {{blad}}
+</div>
+</div>
+<div *ngIf="zalogowany==true">'
+    <h1>Witaj  {{user.Login}}</h1> 
+    <h3>Status {{user.Status}}</h3>
+</div>
+

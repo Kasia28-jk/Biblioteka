@@ -32,13 +32,13 @@ namespace Biblioteka_WebApplication.Data
 
             var ksiazkis = new Ksiazka[]
             {
-                new Ksiazka{ Tytul="Pamiętnik",Imie="Nicholas",Nazwisko="Sparks",LiczbaStron=350,Ebook=true},
-                new Ksiazka{ Tytul="List w butelce",Imie="Nicholas",Nazwisko="Sparks",LiczbaStron=290,Ebook=true},
-                new Ksiazka{ Tytul="Tango",Imie="Sławomir",Nazwisko="Mrożek",LiczbaStron=350,Ebook=false},
-                new Ksiazka{ Tytul="Mistrz i Małgorzata",Imie="Michał",Nazwisko="Bułhakow",LiczbaStron=350,Ebook=false},
-                new Ksiazka{ Tytul="Mały Książę",Imie="Antoine",Nazwisko="de Saint-Exupéry",LiczbaStron=80,Ebook=true},
-                new Ksiazka{ Tytul="Pamiętam cię",Imie="Yrsa",Nazwisko="Sigurdardóttir",LiczbaStron=350,Ebook=true},
-                new Ksiazka{ Tytul="Harry potter i kamień filozoficzny",Imie="J.K.",Nazwisko="Rowling",LiczbaStron=600,Ebook=true}
+                new Ksiazka{ Tytul="Pamiętnik",Imie="Nicholas",Nazwisko="Sparks",LiczbaStron=350,Ebook=true,Wydawnictwo="Znak"},
+                new Ksiazka{ Tytul="List w butelce",Imie="Nicholas",Nazwisko="Sparks",LiczbaStron=290,Ebook=true,Wydawnictwo="Znak"},
+                new Ksiazka{ Tytul="Tango",Imie="Sławomir",Nazwisko="Mrożek",LiczbaStron=350,Ebook=false,Wydawnictwo="Helion"},
+                new Ksiazka{ Tytul="Mistrz i Małgorzata",Imie="Michał",Nazwisko="Bułhakow",LiczbaStron=350,Ebook=false,Wydawnictwo="Helion"},
+                new Ksiazka{ Tytul="Mały Książę",Imie="Antoine",Nazwisko="de Saint-Exupéry",LiczbaStron=80,Ebook=true,Wydawnictwo="Znak"},
+                new Ksiazka{ Tytul="Pamiętam cię",Imie="Yrsa",Nazwisko="Sigurdardóttir",LiczbaStron=350,Ebook=true,Wydawnictwo="ŚwiatKsiążki"},
+                new Ksiazka{ Tytul="Harry potter i kamień filozoficzny",Imie="J.K.",Nazwisko="Rowling",LiczbaStron=600,Ebook=true,Wydawnictwo="Znak"}
             };
             foreach (Ksiazka k in ksiazkis)
             {

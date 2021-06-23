@@ -10,9 +10,11 @@
         "dependencies": {
           "Biblioteka_WebApplication": "1.0.0",
           "Microsoft.AspNet.WebApi.Core": "5.2.7",
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.7",
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.13.2",
           "NUnit3TestAdapter": "4.0.0",
+          "xunit.extensibility.core": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
         "runtime": {
@@ -167,6 +169,17 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/5.0.7": {},
+      "Microsoft.EntityFrameworkCore.InMemory/5.0.7": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.7"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "5.0.7.0",
+            "fileVersion": "5.0.721.26102"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/5.0.7": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "5.0.7",
@@ -1270,11 +1283,32 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "xunit.abstractions/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "xunit.extensibility.core/2.4.1": {
+        "dependencies": {
+          "NETStandard.Library": "2.0.0",
+          "xunit.abstractions": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.core.dll": {
+            "assemblyVersion": "2.4.1.0",
+            "fileVersion": "2.4.1.0"
+          }
+        }
+      },
       "xunit.runner.visualstudio/2.4.3": {},
       "Biblioteka_WebApplication/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.7",
           "Microsoft.EntityFrameworkCore": "5.0.7",
+          "Microsoft.EntityFrameworkCore.InMemory": "5.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.7"
         },
         "runtime": {
@@ -1358,6 +1392,13 @@
       "sha512": "sha512-ZShPEOZaQhBZqDObU3+kigEmlEGug37F8v/jpQgVs1XfHrLeXVyk+p94DBH4f+bUUHUbsEEcIbU6OhUBtWZztg==",
       "path": "microsoft.entityframeworkcore.analyzers/5.0.7",
       "hashPath": "microsoft.entityframeworkcore.analyzers.5.0.7.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.InMemory/5.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nmTyS8TDy9ED2RI5T9kuOrjO3RX0BHCzlTnMto8FjJ+HvCDy8riXYEXRTomm3Cd4MYFybiLjUa6MylACWswt7A==",
+      "path": "microsoft.entityframeworkcore.inmemory/5.0.7",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.5.0.7.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/5.0.7": {
       "type": "package",
@@ -2030,6 +2071,20 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "xunit.abstractions/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
+      "path": "xunit.abstractions/2.0.3",
+      "hashPath": "xunit.abstractions.2.0.3.nupkg.sha512"
+    },
+    "xunit.extensibility.core/2.4.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yKZKm/8QNZnBnGZFD9SewkllHBiK0DThybQD/G4PiAmQjKtEZyHi6ET70QPU9KtSMJGRYS6Syk7EyR2EVDU4Kg==",
+      "path": "xunit.extensibility.core/2.4.1",
+      "hashPath": "xunit.extensibility.core.2.4.1.nupkg.sha512"
     },
     "xunit.runner.visualstudio/2.4.3": {
       "type": "package",

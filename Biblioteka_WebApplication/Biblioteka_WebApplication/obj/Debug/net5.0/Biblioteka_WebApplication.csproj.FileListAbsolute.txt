@@ -9,39 +9,13 @@ E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplicat
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.pdb
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csprojAssemblyReference.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfoInputs.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfo.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CoreCompileInputs.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.MvcApplicationPartsAssemblyInfo.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.Manifest.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.xml
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\scopedcss\bundle\Biblioteka_WebApplication.styles.css
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.input.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.output.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorCoreGenerate.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cs
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CopyComplete
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Humanizer.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -69,153 +43,106 @@ E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplicat
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Humanizer.dll
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.Development.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.exe
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.deps.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.dev.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\ref\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Humanizer.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csprojAssemblyReference.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfoInputs.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CoreCompileInputs.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.MvcApplicationPartsAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.Manifest.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.xml
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\scopedcss\bundle\Biblioteka_WebApplication.styles.css
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.input.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.output.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorCoreGenerate.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CopyComplete
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.Development.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.exe
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.deps.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.dev.json
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\ref\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Humanizer.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Newtonsoft.Json.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csprojAssemblyReference.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfoInputs.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CoreCompileInputs.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.MvcApplicationPartsAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.Manifest.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.xml
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\scopedcss\bundle\Biblioteka_WebApplication.styles.css
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.input.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.output.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorCoreGenerate.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cache
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cs
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CopyComplete
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
-E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
-S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csprojAssemblyReference.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfoInputs.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfo.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CoreCompileInputs.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.Manifest.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.xml
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\scopedcss\bundle\Biblioteka_WebApplication.styles.css
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.input.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.output.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorCoreGenerate.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cache
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cs
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CopyComplete
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.Development.json
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\appsettings.json
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.exe
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.deps.json
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.json
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.runtimeconfig.dev.json
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\ref\Biblioteka_WebApplication.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Humanizer.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csprojAssemblyReference.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfoInputs.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.AssemblyInfo.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CoreCompileInputs.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.MvcApplicationPartsAssemblyInfo.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorAssemblyInfo.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.Manifest.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\staticwebassets\Biblioteka_WebApplication.StaticWebAssets.xml
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\scopedcss\bundle\Biblioteka_WebApplication.styles.css
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.input.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.TagHelpers.output.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorCoreGenerate.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cache
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.RazorTargetAssemblyInfo.cs
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.Views.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.csproj.CopyComplete
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\ref\Biblioteka_WebApplication.dll
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.pdb
+S:\Szkola\TIU\projekt-KLON\Biblioteka\Biblioteka_WebApplication\Biblioteka_WebApplication\obj\Debug\net5.0\Biblioteka_WebApplication.genruntimeconfig.cache
