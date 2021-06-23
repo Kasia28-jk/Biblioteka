@@ -288,3 +288,4 @@ S:\Szkola\TIU\PROJEKT\Biblioteka\Biblioteka\Biblioteka_WebApplication\TestyJedno
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\xunit.abstractions.dll
 E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\xunit.core.dll
+E:\Studia\semestr 6\TIU\Projekt\Biblioteka_WebApplication\TestyJednostkowe\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

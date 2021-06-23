@@ -25,7 +25,8 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET: api/<UzytkownikController>
         [HttpGet]
-        [Authorize]
+        [Authorize(Roles ="Admin")]
+
         public async Task<ActionResult<IEnumerable<Uzytkownik>>> Get()
         {
             return await _uRepository.Get();

@@ -79,7 +79,7 @@ namespace Biblioteka_WebApplication.Repository
 
             var klucz = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bardzotrudnehaslotokena"));
             var zaszfrowanyKlucz = new SigningCredentials(klucz, SecurityAlgorithms.HmacSha256);
-            var token = new JwtSecurityToken("http://localhost:44354/", null, new List<Claim> { new Claim(ClaimTypes.Role, res.Rola) }, null, DateTime.Now.AddMinutes(30), zaszfrowanyKlucz);
+            var token = new JwtSecurityToken("http://localhost:44383/", null, new List<Claim> { new Claim(ClaimTypes.Role, res.Rola) }, null, DateTime.Now.AddMinutes(30), zaszfrowanyKlucz);
             res.Token = new JwtSecurityTokenHandler().WriteToken(token);
             return res;
         }

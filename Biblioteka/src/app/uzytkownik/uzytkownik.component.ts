@@ -28,6 +28,7 @@ export class UzytkownikComponent implements OnInit {
     }
   
     onSubmit() {
+      console.log("asddfdgfghfgj");
       this.autoryzacjaService.login(this.user).subscribe(res => {
         if(res) {
           this.zalogowany=true;
@@ -37,5 +38,6 @@ export class UzytkownikComponent implements OnInit {
         }
       });
     }
+
 
 }

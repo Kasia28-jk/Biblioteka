@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { CanActivate, ActivatedRouteSnapshot, RouterStateSnapshot, UrlTree, Router } from '@angular/router';
+import { ActivatedRouteSnapshot, CanActivate, Router, RouterStateSnapshot, UrlTree } from '@angular/router';
 import { Observable } from 'rxjs';
 import { AutoryzacjaService } from './autoryzacja.service';
 
@@ -9,7 +9,6 @@ import { AutoryzacjaService } from './autoryzacja.service';
 export class AutoryzacjaGuard implements CanActivate {
   constructor(private autoryzacjaService: AutoryzacjaService, private router: Router){
   }
-
 
   canActivate(
     route: ActivatedRouteSnapshot,
@@ -21,9 +20,8 @@ export class AutoryzacjaGuard implements CanActivate {
         if(route.data?.dozwolonaRola != null) {
           return route.data.dozwolonaRola == user.rola;
         }
-      }
-
+      }  
       return user != null;
   }
-
 }
+
