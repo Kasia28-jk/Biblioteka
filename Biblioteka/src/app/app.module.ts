@@ -9,6 +9,7 @@ import { KsiazkiComponent } from './ksiazki/ksiazki.component';
 import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 import { AutoryzacjaDirective } from './autoryzacja.directive';
 import { UzytkownikComponent } from './uzytkownik/uzytkownik.component';
+import { GatunekComponent } from './gatunek/gatunek.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { UzytkownikComponent } from './uzytkownik/uzytkownik.component';
     KsiazkiComponent,
     WypozyczeniaComponent,
     AutoryzacjaDirective,
-    UzytkownikComponent
+    UzytkownikComponent,
+    GatunekComponent
   ],
   imports: [
     BrowserModule,

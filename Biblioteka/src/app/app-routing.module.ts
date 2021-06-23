@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { GatunekComponent } from './gatunek/gatunek.component';
 import { KsiazkiComponent } from './ksiazki/ksiazki.component';
 import { MenuComponent } from './menu/menu.component';
 import { UzytkownikComponent } from './uzytkownik/uzytkownik.component';
