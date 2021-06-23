@@ -10,7 +10,8 @@ const routes: Routes = [
   {path:'',component:MenuComponent},
   {path:'ksiazki', component:KsiazkiComponent},
   {path:'wypozyczenia', component:WypozyczeniaComponent},
-  { path: 'logowanie', component: UzytkownikComponent}
+  { path: 'logowanie', component: UzytkownikComponent},
+  { path: 'gatunek', component: GatunekComponent}
 ];
 
 @NgModule({
