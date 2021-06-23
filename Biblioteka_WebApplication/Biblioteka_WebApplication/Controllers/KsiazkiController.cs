@@ -19,14 +19,12 @@ namespace Biblioteka_WebApplication.Controllers
         }
       
         [HttpGet]
-        [Authorize]
         public async Task<ActionResult<IEnumerable<Ksiazka>>> Get()
         {
             return await _ksiazkaRepository.Get();
         }
 
         [HttpGet("{id}")]
-        [Authorize]
         public async Task<ActionResult<Ksiazka>> GetKsiazka(int id)
         {
             return await _ksiazkaRepository.GetKsiazka(id);

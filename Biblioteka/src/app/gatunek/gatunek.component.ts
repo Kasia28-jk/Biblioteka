@@ -6,7 +6,8 @@ import { gatunek, GatunekService } from '../gatunek.service';
   templateUrl: './gatunek.component.html',
   styleUrls: ['./gatunek.component.css']
 })
-export class GatunekComponent implements OnInit {
+export class GatunekComponent implements OnInit 
+{
   @Input() gatunek : gatunek;
   gatunekId:number;
   constructor(private gatunekService:GatunekService) { }
