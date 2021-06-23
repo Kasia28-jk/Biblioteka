@@ -8,7 +8,7 @@ import { gatunek, GatunekService } from '../gatunek.service';
   styleUrls: ['./gatunek.component.css']
 })
 export class GatunekComponent implements OnInit {
-  @Input() nazwa: string;
+  @Input() gatunek : gatunek;
   gatunekId:number;
   constructor(private gatunekService:GatunekService) { }
 
