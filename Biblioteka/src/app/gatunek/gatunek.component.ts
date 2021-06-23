@@ -1,5 +1,4 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
 import { gatunek, GatunekService } from '../gatunek.service';
 
 @Component({

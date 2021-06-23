@@ -1,12 +1,10 @@
 ﻿using Biblioteka_WebApplication.Controllers;
 using Biblioteka_WebApplication.Models.DBModels;
 using Biblioteka_WebApplication.Repository;
+using Biblioteka_WebApplication.Repository.DtoModel;
 using Microsoft.AspNetCore.Mvc;
 using NUnit.Framework;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace TestyJednostkowe
@@ -36,6 +34,11 @@ namespace TestyJednostkowe
             public async Task<ActionResult<Uzytkownik>> Get(int id)
             {
                 return new Uzytkownik() { UzytkownikId = id };
+            }
+
+            public LoginResDto Login([FromBody] Uzytkownik uzytkownik)
+            {
+                throw new System.NotImplementedException();
             }
 
             public async Task<ActionResult<Uzytkownik>> Post([FromBody] Uzytkownik user)

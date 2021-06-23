@@ -2,7 +2,6 @@ import { Component, Input, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 import { ksiazka, KsiazkaService } from '../ksiazka.service';
 import { WypozyczeniaService } from '../wypozyczenia.service';
-import { WypozyczeniaComponent } from '../wypozyczenia/wypozyczenia.component';
 
 @Component({
   selector: 'app-ksiazka',
