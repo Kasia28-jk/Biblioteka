@@ -25,7 +25,6 @@ namespace Biblioteka_WebApplication.Controllers
         }
         // GET: api/<ValuesController>
         [HttpGet]
-        [Authorize]
         public async Task<ActionResult<IEnumerable<Gatunek>>> Get()
         {
             return await _gatunekReposiotry.Get();
@@ -33,7 +32,6 @@ namespace Biblioteka_WebApplication.Controllers
 
         // GET api/<ValuesController>/5
         [HttpGet("{id}")]
-        [Authorize]
         public async Task<ActionResult<Gatunek>> GetGatunki(int id)
         {
             return await _gatunekReposiotry.GetGatunki(id);
