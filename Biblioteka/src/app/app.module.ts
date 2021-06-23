@@ -10,6 +10,9 @@ import { KsiazkiComponent } from './ksiazki/ksiazki.component';
 import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 import { AutoryzacjaDirective } from './autoryzacja.directive';
 import { GatunekComponent } from './gatunek/gatunek.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { MatSliderModule } from '@angular/material/slider';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -23,9 +26,12 @@ import { GatunekComponent } from './gatunek/gatunek.component';
     GatunekComponent
   ],
   imports: [
+    FormsModule,
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    MatSliderModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

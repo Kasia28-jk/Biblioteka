@@ -4,9 +4,8 @@ import { Observable } from 'rxjs';
 import { catchError, map } from 'rxjs/operators';
 import { of } from 'rxjs';
 
-export interface Uzytkownik{
-  UzytkownikId: number;
-  Status: string;
+export interface Uzytkownik
+{
   Login: string;
   Haslo: string;
 }
@@ -26,7 +25,8 @@ export class AutoryzacjaService {
   constructor(private http: HttpClient) { }
 
   login(login: Uzytkownik): Observable<boolean> {
-    return this.http.post<LoginRes>("https://localhost:44383/api/Logowanie", login).pipe(map(res => {
+    console.log("---");
+    return this.http.post<LoginRes>("https://localhost:44383/api/Login", login).pipe(map(res => {
       sessionStorage.setItem('uzytkownik', JSON.stringify(res));
       this.zmianaStanuUzytkownika.emit();
       return true;

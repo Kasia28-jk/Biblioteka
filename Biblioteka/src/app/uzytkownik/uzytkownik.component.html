@@ -1,31 +1,25 @@
-      <!--<form (ngSubmit)="onSubmit()" #form="ngForm" class="my-form">
-    <div class="d-flex flex-column">
-    <div class="d-flex justify-content-around">
-   <mat-form-field class="example-full-width">
-            <mat-label>Login</mat-label>
-            <input matInput placeholder="Login" [(ngModel)]="login.login" required name="login">
-          </mat-form-field>
-          <mat-form-field class="example-full-width">
-            <mat-label>Haslo</mat-label>
-            <input matInput placeholder="Haslo" [(ngModel)]="login.haslo" name="haslo" required type="password">
-          </mat-form-field>
-         -->
-    
-        <!-- <div class="d-flex flex-row-reverse">
-            <input [disabled]="form.invalid" class="btn btn-success btn-lg m-1 mx-2" type="submit" value="Zaloguj">
-        </div> -->
-
-    <!-- </div> -->
-    <a routerLink="">Powrot do strony glownje</a>
 
 <div *ngIf="zalogowany==false">
-
-    <form (ngSubmit)="onSubmit()">
-        <label>Login</label>
+    <form (ngSubmit)="onSubmit()" class="my-form" #form="ngForm">  
+        <div class="d-flex flex-column">
+            <div class="d-flex justify-content-around">  
+    <div>
+        <mat-form-field class="mx-2">
+        <mat-label>Login: </mat-label>
         <input placeholder="Login" required name="login">
-        <label>Haslo</label>
-        <input placeholder="Haslo" name="aslo" required type="password">
-    <input type="submit" value="Zaloguj">
+        </mat-form-field>
+    </div>
+    <div>
+        <mat-form-field class="mx-2">
+        <mat-label>Hasło: </mat-label>
+        <input placeholder="Haslo" name="Haslo" required type="password">
+        </mat-form-field>
+    </div>
+</div>
+</div>
+<div class="d-flex flex-row-reverse">
+    <input type="submit" value="Zaloguj" class="btn btn-success">
+</div>
 </form>
 
 </div>

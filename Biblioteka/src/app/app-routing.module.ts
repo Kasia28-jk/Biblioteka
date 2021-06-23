@@ -8,7 +8,7 @@ import { UzytkownikComponent } from './uzytkownik/uzytkownik.component';
 import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 
 const routes: Routes = [
-  {path:'',component:MenuComponent,canActivate: [AutoryzacjaGuard]},
+  {path:'',component:MenuComponent},
   {path:'ksiazki', component:KsiazkiComponent, canActivate: [AutoryzacjaGuard]},
   {path:'wypozyczenia', component:WypozyczeniaComponent, canActivate: [AutoryzacjaGuard]},
   {path: 'logowanie', component: UzytkownikComponent},

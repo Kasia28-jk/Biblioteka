@@ -10,8 +10,6 @@ import { AutoryzacjaService, Uzytkownik } from '../autoryzacja.service';
 export class UzytkownikComponent implements OnInit {
 
   user: Uzytkownik = {
-    UzytkownikId: null,
-    Status: null,
     Login: null,
     Haslo: null
   }
