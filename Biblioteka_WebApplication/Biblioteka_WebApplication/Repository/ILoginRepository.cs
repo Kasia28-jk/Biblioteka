@@ -9,6 +9,6 @@ namespace Biblioteka_WebApplication.Repository
 {
     public interface ILoginRepository
     {
-        public LoginResDto Login(UzytkownikDto uzytkownik);
+        public LoginResDto LoginM(UzytkownikDto uzytkownik);
     }
 }

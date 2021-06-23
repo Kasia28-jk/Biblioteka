@@ -8,12 +8,11 @@ import { gatunek, GatunekService } from '../gatunek.service';
 })
 export class GatunekComponent implements OnInit 
 {
-  @Input() gatunek : gatunek;
-  gatunekId:number;
+  gatunki: gatunek[]=[];
   constructor(private gatunekService:GatunekService) { }
 
   ngOnInit(): void {
-
+    this.gatunekService.pobierzGatunki().subscribe(res=>this.gatunki=res);
   }
 
 }

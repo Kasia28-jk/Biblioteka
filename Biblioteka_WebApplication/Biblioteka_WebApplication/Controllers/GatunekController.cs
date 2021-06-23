@@ -39,7 +39,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // POST api/<ValuesController>
         [HttpPost]
-        [Authorize]
+        //[Authorize]
         public async Task<ActionResult<Gatunek>> PostGatunki([FromBody] Gatunek gatunek)
         {
             return await _gatunekReposiotry.PostGatunki(gatunek);
@@ -47,7 +47,7 @@ namespace Biblioteka_WebApplication.Controllers
 
         // DELETE api/<ValuesController>/5
         [HttpDelete("{id}")]
-        [Authorize]
+        //[Authorize]
         public async Task<ActionResult<Gatunek>> DeleteGatunek(int id)
         {
             return await _gatunekReposiotry.DeleteGatunek(id);

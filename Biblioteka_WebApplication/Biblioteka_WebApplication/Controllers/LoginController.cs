@@ -20,7 +20,7 @@ namespace Biblioteka_WebApplication.Controllers
         [HttpPost]
         public LoginResDto LoginaM([FromBody] UzytkownikDto uzytkownik)
         {
-            return _uRepository.Login(uzytkownik);
+            return _uRepository.LoginM(uzytkownik);
         }
 
     }

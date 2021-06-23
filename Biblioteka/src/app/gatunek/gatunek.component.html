@@ -1,3 +1,6 @@
-<div class="table">
-    <tr> <b>Gatunek: {{gatunek.nazwa}}</b> </tr>
+<div *ngFor="let g of gatunki">
+    <div class="table">
+        <b> Gatunek:</b> {{g.nazwa}}
+    </div>
 </div>
+

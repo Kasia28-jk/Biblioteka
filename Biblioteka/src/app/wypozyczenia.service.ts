@@ -30,12 +30,12 @@ export class WypozyczeniaService {
 
   pobierzWypozyczenia(): Observable<Wypozyczenie[]>
   {
-    return this.http.get<Wypozyczenie[]>("https://localhost:44383/api/Wypozyczenia",{ headers: this.dolaczNaglowki() });
+    return this.http.get<Wypozyczenie[]>("https://localhost:44383/api/Wypozyczenia"/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   getWypozyczenie(id:number): Observable<Wypozyczenie>
   {
-      return this.http.get<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id,{ headers: this.dolaczNaglowki() });
+      return this.http.get<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
  /* postWypozyczenia(wypozyczenie: Wypozyczenie): Observable<Wypozyczenie>
@@ -45,7 +45,7 @@ export class WypozyczeniaService {
 
   deleteWypozyczenie(id:number):Observable<Wypozyczenie>
   {
-    return this.http.delete<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id,{ headers: this.dolaczNaglowki() });
+    return this.http.delete<Wypozyczenie>('https://localhost:44383/api/Wypozyczenia/'+id/*,{ headers: this.dolaczNaglowki() }*/);
   }
 /*
   putWypozyczenie(id:number):Observable<Wypozyczenie>

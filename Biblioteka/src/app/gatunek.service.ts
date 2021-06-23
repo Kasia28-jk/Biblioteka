@@ -18,23 +18,22 @@ export class GatunekService {
 
   pobierzGatunki():Observable<gatunek[]>
   {
-      console.log("..");
-      return this.http.get<gatunek[]>('https://localhost:44383/api/Gatunki');
+      return this.http.get<gatunek[]>('https://localhost:44383/api/Gatunek'/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   getGatunek(gatunekId:number):Observable<gatunek>
   {
     console.log("..");
-    return this.http.get<gatunek>('https://localhost:44383/api/Gatunki/'+gatunekId);
+    return this.http.get<gatunek>('https://localhost:44383/api/Gatunek/'+gatunekId/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   postGatunek(gatunek:gatunek):Observable<gatunek>
   {
-    return this.http.post<gatunek>('https://localhost:44383/api/Gatunki',gatunek);
+    return this.http.post<gatunek>('https://localhost:44383/api/Gatunek',gatunek/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   deleteGatunek(gatunekId:number):Observable<gatunek>
   {
-    return this.http.delete<gatunek>('https://localhost:44383/api/Gatunki/'+gatunekId);
+    return this.http.delete<gatunek>('https://localhost:44383/api/Gatunek/'+gatunekId/*,{ headers: this.dolaczNaglowki() }*/);
   }
 }

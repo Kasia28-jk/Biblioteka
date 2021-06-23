@@ -19,10 +19,10 @@ namespace Biblioteka_WebApplication.Repository
         {
             _bibliotekaContext = context;
         }
-        public LoginResDto Login(UzytkownikDto uzytkownik)
+        public LoginResDto LoginM(UzytkownikDto uzytkownik)
         {
             var res = new LoginResDto();
-            var uzyt = _bibliotekaContext.Uzytkownik.FirstOrDefault(u => u.Login == uzytkownik.Login);
+            /*var uzyt = _bibliotekaContext.Uzytkownik.FirstOrDefault(u => u.Login == uzytkownik.Login);
 
             if (uzyt == null)
             {
@@ -32,8 +32,16 @@ namespace Biblioteka_WebApplication.Repository
             if (uzyt.Haslo != uzytkownik.Haslo)
             {
                 return null;
-            }
+            }*/
 
+            if(uzytkownik.Login==null)
+            {
+                res.Rola = "Bibliotekarz";
+            }
+            if (uzytkownik.Login == "Admin")
+            {
+                res.Rola = "Admin";
+            }
             var klucz = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("bardzotrudnehaslotokena"));
             var zaszfrowanyKlucz = new SigningCredentials(klucz, SecurityAlgorithms.HmacSha256);
             var token = new JwtSecurityToken("http://localhost:44383/", null, new List<Claim> { new Claim(ClaimTypes.Role, res.Rola) }, null, DateTime.Now.AddMinutes(30), zaszfrowanyKlucz);

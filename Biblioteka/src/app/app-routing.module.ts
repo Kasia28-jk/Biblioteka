@@ -9,10 +9,10 @@ import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 
 const routes: Routes = [
   {path:'',component:MenuComponent},
-  {path:'ksiazki', component:KsiazkiComponent, canActivate: [AutoryzacjaGuard]},
-  {path:'wypozyczenia', component:WypozyczeniaComponent, canActivate: [AutoryzacjaGuard]},
+  {path:'ksiazki', component:KsiazkiComponent/*, canActivate: [AutoryzacjaGuard]*/},
+  {path:'wypozyczenia', component:WypozyczeniaComponent/*, canActivate: [AutoryzacjaGuard]*/},
   {path: 'logowanie', component: UzytkownikComponent},
-  {path: 'gatunek', component: GatunekComponent, canActivate: [AutoryzacjaGuard]}
+  {path: 'gatunek', component: GatunekComponent/*, canActivate: [AutoryzacjaGuard]*/}
 ];
 
 @NgModule({

@@ -24,23 +24,23 @@ export class KsiazkaService {
   pobierzKsiazki():Observable<ksiazka[]>
   {
       console.log("..");
-      return this.http.get<ksiazka[]>('https://localhost:44383/api/Ksiazki',{ headers: this.dolaczNaglowki() });
+      return this.http.get<ksiazka[]>('https://localhost:44383/api/Ksiazki'/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   getKsiazke(id:number):Observable<ksiazka>
   {
     console.log("..");
-    return this.http.get<ksiazka>('https://localhost:44383/api/Ksiazki/'+id,{ headers: this.dolaczNaglowki() });
+    return this.http.get<ksiazka>('https://localhost:44383/api/Ksiazki/'+id/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   postKsiazka(ksiazka:ksiazka):Observable<ksiazka>
   {
-    return this.http.post<ksiazka>('https://localhost:44383/api/Ksiazki',ksiazka,{ headers: this.dolaczNaglowki() });
+    return this.http.post<ksiazka>('https://localhost:44383/api/Ksiazki',ksiazka/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   deleteKsiazka(id:number):Observable<ksiazka>
   {
-    return this.http.delete<ksiazka>('https://localhost:44383/api/Ksiazki/'+id,{ headers: this.dolaczNaglowki() });
+    return this.http.delete<ksiazka>('https://localhost:44383/api/Ksiazki/'+id/*,{ headers: this.dolaczNaglowki() }*/);
   }
 
   private dolaczNaglowki(): HttpHeaders {
