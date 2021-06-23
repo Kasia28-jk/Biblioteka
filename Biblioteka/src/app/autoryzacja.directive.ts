@@ -11,6 +11,7 @@ export class AutoryzacjaDirective {
   constructor(private templateRef: TemplateRef<any>, private vc: ViewContainerRef, private autoryzacjaService: AutoryzacjaService) { 
     autoryzacjaService.zmianaStanuUzytkownika.subscribe(() => this.sprawdzUzytkownika());
   }
+
   private sprawdzUzytkownika() {
     if(this.autoryzacjaService.pobierzZalogowanegoUzytkownika() != null) {
       if(!this.templateJuzIstnieje) {

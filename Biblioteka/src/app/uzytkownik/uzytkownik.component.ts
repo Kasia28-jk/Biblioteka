@@ -9,33 +9,35 @@ import { AutoryzacjaService, Uzytkownik } from '../autoryzacja.service';
 })
 export class UzytkownikComponent implements OnInit {
 
-user: Uzytkownik = {
-  UzytkownikId: null,
-  Status: null,
-  Login: null,
-  Haslo: null
-}
-
-zalogowany:boolean = false;
-
-blad: string;
-
-  constructor(private autoryzacjaService: AutoryzacjaService, private router: Router) {
-   }
-
-  ngOnInit(): void {
+  user: Uzytkownik = {
+    UzytkownikId: null,
+    Status: null,
+    Login: null,
+    Haslo: null
   }
+  
+  zalogowany:boolean;
+  
+  blad: string;
+  
+    constructor(private autoryzacjaService: AutoryzacjaService, private router: Router) {
+      this.zalogowany=false;
+     }
+  
+    ngOnInit(): void {
+    }
+  
+    onSubmit() {
+      console.log("asddfdgfghfgj");
+      this.autoryzacjaService.login(this.user).subscribe(res => {
+        if(res) {
+          this.zalogowany=true;
+          this.router.navigateByUrl('');
+        } else {
+          this.blad = "Błędny login lub hasło!";
+        }
+      });
+    }
 
-  onSubmit() {
-    console.log('asdasasd');
-    this.autoryzacjaService.login(this.user).subscribe(res => {
-      if(res) {
-        this.zalogowany=true;
-        this.router.navigateByUrl('');
-      } else {
-        this.blad = "Błędny login lub hasło!";
-      }
-    });
-  }
 
 }

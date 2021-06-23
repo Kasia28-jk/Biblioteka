@@ -9,6 +9,7 @@ import { MenuComponent } from './menu/menu.component';
 import { KsiazkiComponent } from './ksiazki/ksiazki.component';
 import { WypozyczeniaComponent } from './wypozyczenia/wypozyczenia.component';
 import { AutoryzacjaDirective } from './autoryzacja.directive';
+import { GatunekComponent } from './gatunek/gatunek.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { AutoryzacjaDirective } from './autoryzacja.directive';
     MenuComponent,
     KsiazkiComponent,
     WypozyczeniaComponent,
-    AutoryzacjaDirective
+    AutoryzacjaDirective,
+    GatunekComponent
   ],
   imports: [
     BrowserModule,

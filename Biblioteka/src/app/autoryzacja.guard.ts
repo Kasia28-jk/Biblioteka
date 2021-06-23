@@ -20,9 +20,8 @@ export class AutoryzacjaGuard implements CanActivate {
         if(route.data?.dozwolonaRola != null) {
           return route.data.dozwolonaRola == user.rola;
         }
-      }
-  
+      }  
       return user != null;
   }
-  
 }
+

@@ -18,23 +18,22 @@
     <!-- </div> -->
     <a routerLink="">Powrot do strony glownje</a>
 
+<div *ngIf="zalogowany==false">
 
-<div *ngIf="zalogowany==false" >    
-    
-    <form (ngSubmit)="onSubmit()">     
+    <form (ngSubmit)="onSubmit()">
         <label>Login</label>
         <input placeholder="Login" required name="login">
         <label>Haslo</label>
-        <input placeholder="Haslo" name="haslo" required type="password">
+        <input placeholder="Haslo" name="aslo" required type="password">
     <input type="submit" value="Zaloguj">
 </form>
 
-<div>
-    {{blad}}
-</div>
 </div>
 <div *ngIf="zalogowany==true">'
     <h1>Witaj  {{user.Login}}</h1> 
     <h3>Status {{user.Status}}</h3>
+
+    <h1>Twoje wypożyczone książki: </h1> 
+    <app-wypozyczenia></app-wypozyczenia>
 </div>
 
